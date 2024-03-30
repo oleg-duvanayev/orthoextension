@@ -867,7 +867,6 @@
                 <liquibase-plugin.url>jdbc:postgresql://localhost:5432/orthodb</liquibase-plugin.url>
                 <liquibase-plugin.username>orthoadmin</liquibase-plugin.username>
                 <liquibase-plugin.password>orthoadmin</liquibase-plugin.password>
-                <liquibase-plugin.schema>rocor</liquibase-plugin.schema>
             </properties>
             <dependencies>
                 <dependency>
